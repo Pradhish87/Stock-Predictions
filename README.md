@@ -57,7 +57,8 @@ Use the command below to launch the Streamlit interface:
 ```bash
 Copy code
      streamlit run app.py
-n_headless streamlit run app.py
+```
+
 
 
 
