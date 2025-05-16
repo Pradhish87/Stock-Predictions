@@ -1,4 +1,4 @@
-897# Stock-Predictions
+# Stock-Predictions
 # ✍️ Stock-Market-Prediction
 
  This is a user-friendly Streamlit web application that predicts future stock prices based on historical data using time series analysis and deep learning techniques.
@@ -46,17 +46,17 @@ Matplotlib
 
 Ensure Python 3.7+ is installed and run the following to install dependencies:
 
-bash
+```bash
 Copy code
      pip install streamlit tensorflow pandas yfinance matplotlib
+```
 
 # ▶️ Running the App
 
 Use the command below to launch the Streamlit interface:
 
 ```bash
-Copy code
-     streamlit run app.py
+streamlit run app.py
 ```
 
 
