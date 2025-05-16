@@ -54,7 +54,7 @@ Copy code
 
 Use the command below to launch the Streamlit interface:
 
-bash
+'''bash
 Copy code
      streamlit run app.py
 
