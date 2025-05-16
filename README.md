@@ -1,5 +1,5 @@
 # Stock-Predictions
-#✍️ Stock-Market-Prediction
+# ✍️ Stock-Market-Prediction
 
      This is a user-friendly Streamlit web application that predicts future stock prices based on historical data using time series analysis and deep learning techniques.
 
