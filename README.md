@@ -1,4 +1,4 @@
-97# Stock-Predictions
+897# Stock-Predictions
 # ✍️ Stock-Market-Prediction
 
  This is a user-friendly Streamlit web application that predicts future stock prices based on historical data using time series analysis and deep learning techniques.
@@ -57,8 +57,7 @@ Use the command below to launch the Streamlit interface:
 ```bash
 Copy code
      streamlit run app.py
-n_headless
-
+n_headless streamlit run app.py
 
 
 
